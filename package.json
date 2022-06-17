@@ -88,10 +88,5 @@
     "jest": "^24.9.0",
     "prettier": "^2.3.2",
     "pretty-quick": "^3.1.1"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged"
-    }
   }
 }
